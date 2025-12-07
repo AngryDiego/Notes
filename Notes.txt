@@ -14,6 +14,9 @@ Linking CSS
 <footer>	Defines a footer for a document or section
 
 Text
+(headers and footers can also be used here)
+<article>	Defines an article
+<section>	Defines a section in a document
 <h1> to <h6>	Defines HTML headings
 <p>	Defines a paragraph
 
