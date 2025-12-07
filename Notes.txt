@@ -1,1 +1,32 @@
+HTML releated
+<!DOCTYPE> 	Defines the document type
+<html>	Defines the root of an HTML document
+<head>	Contains metadata/information for the document //meta information that regular user "can't see"
+<title>	Defines a title for the document //NAME
 
+Linking CSS
+<style> css related stuff (i dont mucking care)
+<link> css related stuff (i dont mucking care)
+
+... IDK how to name them
+<header>	Defines a header for a document or section
+<main>	Specifies the main content of a document
+<footer>	Defines a footer for a document or section
+
+Text
+<h1> to <h6>	Defines HTML headings
+<p>	Defines a paragraph
+
+Lists
+<ol>	Defines an ordered list   \
+                                  }- <li>	Defines a list item
+<ul>	Defines an unordered list /
+
+"style"
+<strong>	Defines important text
+<em>	Defines emphasized text
+
+
+Links
+<a>	Defines a hyperlink (exaple : <a href="https://www.youtube.com">Visit Youtube</a>)
+<nav>	Defines navigation links
