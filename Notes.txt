@@ -26,6 +26,25 @@ Lists
                                   }- <li>	Defines a list item
 <ul>	Defines an unordered list /
 
+Table
+<table>	Defines a table
+<th>	Defines a header cell in a table
+<tr>	Defines a row in a table
+<td>	Defines a cell in a table
+
+Form
+<form>	Defines an HTML form for user input
+<input>	Defines an input control
+ -<input type="button">
+  <input type="checkbox">
+  <input type="radio">
+  <input type="time">
+  <input type="date">
+  <input type="number">
+  <input type="text">
+  
+  <input type="submit">
+
 "style"
 <strong>	Defines important text
 <em>	Defines emphasized text
