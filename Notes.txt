@@ -7,6 +7,7 @@ HTML releated
 Linking CSS
 <style> css related stuff (i dont mucking care)
 <link> css related stuff (i dont mucking care)
+<div>	Defines a section in a document
 
 ... IDK how to name them
 <header>	Defines a header for a document or section
