@@ -28,6 +28,8 @@ Lists
 
 Table
 <table>	Defines a table
+<thead> Defines head for table
+<tbody> Defines body for table
 <th>	Defines a header cell in a table
 <tr>	Defines a row in a table
 <td>	Defines a cell in a table
